@@ -7,19 +7,8 @@
     <title>Про Меня</title>
     
 </head>
-<body>
-   <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
-            padding: 20px;
-            background-color: #f0f0f0;
-        }
-        h1 {
-            color: blue;
-        }
-    </style>
-    <h1>Добро пожаловать на мой сайт</h1>
+<body style="font-family: Arial, sans-serif; margin: 20px; padding: 20px; background-color: #f0f0f0;">
+    <h1 style="color: blue;">Добро пожаловать на мой сайт</h1>
     <h2>Обо мне</h2>
     <p>Привет! Меня зовут Эльвина, и я создала этот сайт для того, чтобы сдать лабораторную работу.</p>
     
@@ -29,11 +18,10 @@
     <h2>Образование</h2>
     <p>Я учусь в УГНТУ по специальности Цифровые технологии и защита информации.</p>
     
-    
+   
     
     <h2>Фото</h2>
     <img src="я и арина.jpg" alt="Фото">
-    <h2>Фото</h2>
-    <img src="я и арина вражда.jpg" alt="Фото">
 </body>
+
 </html>
