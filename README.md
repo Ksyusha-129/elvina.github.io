@@ -5,7 +5,10 @@
 <head>
    
     <title>Про Меня</title>
-    <style>
+    
+</head>
+<body>
+   <style>
         body {
             font-family: Arial, sans-serif;
             margin: 20px;
@@ -16,8 +19,6 @@
             color: blue;
         }
     </style>
-</head>
-<body>
     <h1>Добро пожаловать на мой сайт</h1>
     <h2>Обо мне</h2>
     <p>Привет! Меня зовут Эльвина, и я создала этот сайт для того, чтобы сдать лабораторную работу.</p>
